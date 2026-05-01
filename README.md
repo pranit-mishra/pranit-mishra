@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am studying Computer engineering ;<br>I am interested in researching about AI & ML;<br>I am working in a research paper now
+I am studying Computer engineering ;<br>I am interested in researching about AI & ML;
 
 
 ## 🌐 Socials:
